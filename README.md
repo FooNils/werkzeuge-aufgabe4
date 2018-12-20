@@ -1,5 +1,5 @@
-This is a h1 <h1> Headline.
-This is a h2 <h2> Headline.
+<h1> This is a h1 Headline.
+<h2> This is a h2 Headline.
 *This 
 *Is
 *an
